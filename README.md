@@ -79,7 +79,8 @@ ThinkBoard/
 
 ## ⚙️ Setup Instructions
 - 1️⃣ Clone the Repository
-git clone git@github-personal:geet182022-prog/- ThinkBoard.git
+```bash
+git clone git@github-personal:geet182022-prog/ThinkBoard.git
 cd ThinkBoard
 
 ### 🔧 Backend Setup
