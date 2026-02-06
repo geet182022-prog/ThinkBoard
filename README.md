@@ -122,19 +122,19 @@ http://localhost:5173
 ## 📸 Screenshots
 
 ### 🏠 Dashboard
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](./screenshots/dashboard.png)
 
 ### ✍️ Create Note Page
-![Create Note](screenshots/createNote.png)
+![Create Note](./screenshots/createNote.png)
 
 ### 📝 Edit Note Page
-![Edit Note](screenshots/editNote.png)
+![Edit Note](./screenshots/editNote.png)
 
 ### 📭 Empty Notes State
-![No Notes Dashboard](screenshots/noNoteDashboard.png)
+![No Notes Dashboard](./screenshots/noNoteDashboard.png)
 
 ### 🚦 Rate Limit Protection UI
-![Rate Limit UI](screenshots/ratelimit.png)
+![Rate Limit UI](./screenshots/ratelimit.png)
 
 
 ---
