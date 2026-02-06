@@ -128,7 +128,7 @@ http://localhost:5173
 ![Create Note](./screenshots/createNote.png)
 
 ### 📝 Edit Note Page
-![Edit Note](./screenshots/editNote.png)
+![Edit Note](./screenshots//editNote.png)
 
 ### 📭 Empty Notes State
 ![No Notes Dashboard](./screenshots/noNoteDashboard.png)
