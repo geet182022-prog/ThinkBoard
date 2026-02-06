@@ -77,6 +77,42 @@ ThinkBoard/
 
 ---
 
+## ⚙️ Setup Instructions
+- 1️⃣ Clone the Repository
+```bash
+git clone git@github-personal:geet182022-prog/ThinkBoard.git
+cd ThinkBoard
+
+### 🔧 Backend Setup
+cd backend 
+npm install
+```
+
+- Create a .env file inside backend/:
+
+MONGO_URI=your_mongodb_connection_string
+JWT_SECRET=your_secret_key
+PORT=5000
+
+
+- Run backend server:
+npm start
+
+### Backend will run at:
+http://localhost:5000
+
+- 🎨 Frontend Setup
+
+-Open another terminal:
+cd frontend
+npm install
+npm run dev
+
+- Frontend will run at:
+http://localhost:5173
+
+---
+
 ## 🔐 Security Features
 
 - Password-protected user sessions using JWT
